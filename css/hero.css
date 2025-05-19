@@ -10,7 +10,8 @@ header{
     width: 100%;
     display: flex;
     flex-direction: column;
-    height: 228vh;
+    height: 230vh;
+
 }
 .pirmas-puslapis{
     margin-top: 0;

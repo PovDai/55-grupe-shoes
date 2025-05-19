@@ -1,0 +1,122 @@
+footer{
+    display: flex;
+    width: 100%;
+    background-color:pink;
+    height: 45vh;
+}
+.ikonos img{
+    width: 30px;
+    height: 20px;
+}
+.footer-kaire{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 33%;
+    height: 100%;
+    gap: 2.1rem 0;
+}
+.footer-kaire a{
+    text-decoration: none;
+    color: black;
+     font-size: 0.9rem;
+}
+.footer-vidurys{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 34%;
+    background-color: green;
+    height: 100%;
+}
+.footer-vidurys a{
+    text-decoration: none;
+    color: black;
+     font-size: 0.9rem;
+}
+.footer-desine{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+     width: 33%;
+    height: 100%;
+}
+.footer-desine a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.9rem;
+}
+.footer-h{
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: -1px;
+    font-size: 1.5rem;
+}
+.footer-ikonos{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.footer-ikonos .fa{
+    font-size: 2rem;
+}
+.email-input{
+
+  height: 2.3rem;
+  border: 1px solid grey;
+  width: 15rem;
+}
+.email-input::placeholder{
+    color: grey;
+    text-transform: capitalize;
+    padding: 0.3rem;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+    padding-left: 1.7rem;
+    padding-right: 1.7rem;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    margin-left: 0.2rem;
+}
+.footer-kaire-buttons{
+    display: flex;
+    width: 100%;
+
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 1.3rem;
+}
+.footer-vidurys-a{
+    padding-left: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1.5rem;
+}
+.button-footer-desine{
+    border: 1px solid grey;
+    padding: 0.2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-transform: uppercase;
+    color: grey;
+    
+}
+.footer-desine-buttons{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    width: 55%;
+    background-color: green;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+    gap: 10px 0;
+
+}
