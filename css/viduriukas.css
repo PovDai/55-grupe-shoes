@@ -2,7 +2,7 @@ main{
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 100vh;
+    height: 250vh;
     background-color: blue;
 }
 .main-ispardavimas{
@@ -41,7 +41,7 @@ main{
     justify-content: flex-end;
     background-color:#F2F2F3;
     width: 52%;
-    padding: 2rem;
+    padding-left: 6rem;
     text-align: center;
     gap:10px 0;
 }
@@ -61,4 +61,38 @@ main{
 }
 .receive{
     width: 100%;
+}
+.batai-tekstas-desine{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 35%;
+    line-height: 1.7rem;
+
+  
+}
+.batai-desine a{
+        color: black;
+    font-weight: 500;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.batai-kaire a{
+         color: black;
+    font-weight: 500;
+    font-size: 1rem;
+    text-transform: uppercase;
+
+}
+.batai-tekstas-kaire{
+      display: flex;
+    flex-direction: column;
+    width: 25%;
+    line-height: 1.4rem;
+}
+.pries-footeris{
+    background-color:green;
+    height: 100vh;
+    padding-top: 4vh;
 }
