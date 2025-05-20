@@ -34,7 +34,11 @@
     height: 20vh;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
+    gap:0 6.9rem;
+    padding-left: 2rem;
+    padding-right: 0rem;
+
 
  
 }
@@ -63,4 +67,5 @@
     font-weight: 500;
     font-size: 1rem;
     text-transform: uppercase;
+
 }
