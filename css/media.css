@@ -1,0 +1,194 @@
+@media(max-width:1280px){
+    .main-ispardavimas{
+        height: 43vh;
+    }
+    .search-input {
+ width: 16rem;
+}
+.search-container .fa-heart{
+    margin-left:0.1rem ;
+    margin-right:0.1rem ;
+
+}
+ .desine-navbar a:first-child::after {
+    content: none ;
+    display: none;
+}
+
+}
+
+@media(max-width:1110px){
+    .desine-navbar a{
+    font-size: 0.7rem;
+}
+  .search-input {
+ width: 15rem;
+}
+.search-container .fa-shopping-bag{
+    margin-left: 0.5rem}
+}
+
+
+
+
+
+
+@media(max-width:950px){
+.antras-nuotraukos-photo{
+    height: 40vh;
+}
+.antras-nuotraukos{
+    height: 40vh;
+}
+ .main-ispardavimas{
+        height: 30vh;
+    }
+.apacia-mazosios-moterys{
+    height: 23vh;
+}
+.header-h1{
+    font-size: 2.5rem;
+}
+.navbar a{
+    font-size: 0.6rem;
+}
+.desine-navbar a{
+    font-size: 0.6rem;
+}
+ .desine-navbar a:first-child::after {
+    content: none ;
+    display: none;
+}
+.header-desine{
+    width: 70%;
+}
+.search-container .fa-heart{
+    margin-left:0.1rem ;
+    margin-right:0.1rem ;
+
+}
+.search-input {
+
+  width: 15rem;
+}
+header{
+    height: 170vh;
+}
+
+
+}
+@media(max-width:730px){
+    .search-input {
+ width: 12rem;
+}
+.navbar{
+    width: 100%;
+}
+.desine-navbar{
+    justify-content: center;
+}
+.header-desine{
+    gap:1rem;
+
+}
+  .navbar a{
+    font-size: 0.5rem;
+}
+.sumazinti-tekstas a{
+    font-size: 0.7rem;
+}
+}
+
+
+@media(max-width:636px){
+
+  .search-input {
+ width: 9rem;
+ padding-left: 2rem;;
+ padding-right: 4rem;
+}
+.header-h1{
+    font-size: 1.7rem;
+}
+.desine-navbar a{
+    justify-content: center;
+    font-size:0.5rem ;
+}
+.search-input::placeholder {
+        font-size: 0.5rem;  
+    }
+}
+
+
+
+
+@media(max-width:600px){
+.antras-nuotraukos-photo{
+    height: 30vh;
+}
+.antras-nuotraukos{
+    height: 30vh;
+}
+ .main-ispardavimas{
+        height: 20vh;
+        
+    }
+.h2-tekstas{
+    width: 100%;
+}
+.antras-nuotraukos-zemiau{
+    height: 15vh;
+}
+.apacia-mazosios-moterys{
+    height: 17vh;
+}
+
+
+
+}
+@media(max-width:580px){
+  .search-input {
+ width: 6rem;
+ padding: 0.2rem;
+ padding-left: 1.2rem;;
+ padding-right: 2.2rem;
+ height: 1rem;
+}
+
+.search-container .fa{
+    font-size: 0.7rem;
+}
+.header-h1{
+    font-size: 1.3rem;
+}
+.desine-navbar a{
+    justify-content: center;
+    font-size:0.4rem ;
+}
+.navbar a{
+    font-size: 0.3rem ;
+}
+}
+
+@media(max-width:450px){
+.antras-nuotraukos-photo{
+    height: 30vh;
+}
+.antras-nuotraukos{
+    height: 30vh;
+}
+ .main-ispardavimas{
+        height: 20vh;
+        
+    }
+.h2-tekstas{
+    width: 100%;
+}
+.antras-nuotraukos-zemiau{
+    height: 15vh;
+}
+.apacia-mazosios-moterys{
+    height: 12vh;
+}
+
+}
